@@ -1,13 +1,22 @@
 {
-  "title": "Vilka EU-länder erbjuder de bästa sysselsättningsmöjligheterna?",
-  "subtitle": "Framtida sysselsättningstillväxt i dessa länder 2022-2035 beräknas till 5,6 %.",
+  "title": "Hur stark är personalen i de väpnade styrkorna i EU?",
+  "subtitle": "År 2020 fanns det 1,913 miljoner väpnade styrkor i EU:s medlemsstater.",
   "textNoteDescription": "Notera",
-  "textNote": "sdchdc",
+  "textNote": "Av de 27 länderna i EU har 9 obligatorisk värnplikt.",
   "textSourceDescription": "Källa",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Få åtkomst till data",
-  "extraInfo_DE": "Tyskland accelererar utbyggnaden av förnybar energi, siktar på 80 % ren kraft till 2030",
-  "extraInfo_FR": "Det franska parlamentet godkänner lagförslaget om stora invandringsreformer under rikstäckande protester",
+  "textSource": "Världsbanken (2026)",
+  "linkDataAccessDescription": "Åtkomst till data",
+  "extraInfo_AT": "År 2006 förkortades den obligatoriska militärtjänstgöringen till sex månader.",
+  "extraInfo_HR": "Obligatorisk militärtjänst planerad till 2026",
+  "extraInfo_CY": "Obligatorisk militärtjänst är 26 månader",
+  "extraInfo_DK": "Obligatorisk militärtjänst varar fyra till tolv månader",
+  "extraInfo_EE": "Obligatorisk militärtjänst varar åtta till elva månader",
+  "extraInfo_FI": "Obligatorisk militärtjänst varar i sex till tolv månader",
+  "extraInfo_EL": "Obligatorisk militärtjänst varar nio till tolv månader",
+  "extraInfo_LV": "Obligatorisk militärtjänst varar i sex månader",
+  "extraInfo_LT": "Obligatorisk militärtjänst varar i nio månader",
+  "extraInfo_SE": "Obligatorisk militärtjänst varar i tolv månader",
   "legend1": "Inga data tillgängliga",
+  "customUnitLabel": "personal från väpnade styrkor",
   "tooltipExtraInfoLabel": "Klicka här"
 }
